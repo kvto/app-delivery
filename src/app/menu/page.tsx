@@ -20,5 +20,3 @@ export const MenuPage = () => {
       </div>
   )
 }
-
-export default MenuPage
