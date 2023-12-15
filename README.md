@@ -1,4 +1,17 @@
+# Welcome to the virtual Page dedicated to the delivery of pizzas and other fast foods! 🍕🍕
+Creation of a website dedicated to ordering pizzas mainly, with different sections, such as products, orders, and others. Using primarily React, Next.js and Tailwind as technologies.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+
+# Steps to run the project 🚨:
+<p align="center">
+  <img height="180"src="https://github.com/kvto/images/blob/main/WhatsApp%20Image%202023-12-15%20at%204.59.35%20PM.jpeg" />
+  <img height="180" src="https://github.com/kvto/images/blob/main/WhatsApp%20Image%202023-12-15%20at%205.00.06%20PM.jpeg" />
+  <img height="180" src="https://github.com/kvto/images/blob/main/WhatsApp%20Image%202023-12-15%20at%205.00.30%20PM.jpeg" />
+  <img height=180" src="https://github.com/kvto/images/blob/main/WhatsApp%20Image%202023-12-15%20at%205.03.37%20PM.jpeg" />
+</p>
+
 
 ## Getting Started
 
@@ -12,23 +25,35 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1.- Once the project is downloaded, access the terminal of your console.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+    * - To access open the terminal (Control + Ñ) or (Terminal - New Terminal).
+    * - Run the command "npm install"
+   
+<p align="center">
+  <img height="200" src="https://github.com/kvto/images/blob/main/6.png" />
+</p>
+                                           
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## More info about me: 
+<div id="badges" >
+Ing. Kevin J. Montero Zea 
+</div>
+<div id="badges" >
+CE: 004712881 🆔
+</div>
+<div id="badges" >
++51-913-695-382 📱
+</div>
+<div id="badges" >
+<a href="https://www.linkedin.com/in/kevin913montero/">
+    LinkedIn 👨‍🦰
+  </a>
+</div>
+<div id="badges" >
+<a href="https://3-d-portafolio-olive.vercel.app/">
+    Portfolio 💼
+  </a>
+</div>
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
